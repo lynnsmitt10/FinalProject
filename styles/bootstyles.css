@@ -1,0 +1,70 @@
+/*this will be applied to the tableau page*/
+
+body{
+    background-color:blanchedalmond;
+    background-image: url(../images/tab2.jpg);
+    resize: horizontal;
+    resize:vertical;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headCenter{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabpad{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.center{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    padding: 3px;
+    background-color: darkgoldenrod;
+    color: white;
+    resize: both;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: darkgoldenrod;
+    color: white;
+    resize: both;
+}
+
+a{
+    color: black;
+    text-decoration: underline;
+}
+
+A:visited{
+    color: black;
+}
+
+a:hover{
+    color: orange;
+}
+
+h1{
+    font-size: smaller;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}

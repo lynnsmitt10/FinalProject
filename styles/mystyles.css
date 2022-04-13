@@ -1,0 +1,46 @@
+/* this will be applied to the about and index pages*/
+
+h1{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-stretch:expanded;
+}
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paddingspace{
+    padding-top: 50px;
+}
+
+.onpage{
+    text-align: center;
+    border-style: double;
+}
+
+.big{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+}
+
+a{
+    color:navy
+}
+
+a:visited{
+    color:darkgoldenrod
+}
+a:hover{
+    color:black
+}
+
+.color{
+    background-image: url(../images/white2.jpg);
+    background-size: cover;
+}
+
+.em{
+    width: 500px; 
+    height:350px;
+    resize: both;
+}
